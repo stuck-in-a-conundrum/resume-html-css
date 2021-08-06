@@ -11,7 +11,7 @@ img {
     margin-left: 45px;
     margin-top: 25px;
     border-radius: 50%;
-    height: 35%;
+    height: 30%;
 }
 
 
@@ -26,8 +26,8 @@ p {
 .left {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     float: left;
-    width: 30%;
-    height: 870px;
+    width: 30%; 
+    height: 870px; 
     background-color: #d7c4df;
     margin-left: 25px;
     margin-bottom: 30px;
