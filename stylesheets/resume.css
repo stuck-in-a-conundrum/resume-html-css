@@ -31,14 +31,14 @@ p {
     background-color: #d7c4df;
     margin-left: 25px;
     margin-bottom: 30px;
-    position: fixed;
+    position: relative;
 }
 
 .right {
     background-color: ghostwhite;
-    margin-right: 70px ;
+   
     float: right;
-    width: 62%;
+    width: 60%;
     padding-bottom: 30px;
     
 }
